@@ -99,12 +99,7 @@ Analyzes altered wettability systems.
 │── 03_Water_CO2_Mixed_Wet_System.ipynb
 │── 04_Spontaneous_Imbibition_Model.ipynb
 
-/docs
-│── Technical reports
-│── Theory notes
-│── Parameters
-
-/results
+/output
 │── Plots
 │── Comparisons
 ```
@@ -148,7 +143,7 @@ $$
 ## Clone
 
 ```bash
-git clone https://github.com/YourUsername/porous-media-flow-sim.git
+git clone https://github.com/Kirsty-Kirkman/multiphase-flow-dynamics.git
 ```
 
 ## Explore
